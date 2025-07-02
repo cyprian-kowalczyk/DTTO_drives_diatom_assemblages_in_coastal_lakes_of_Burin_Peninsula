@@ -1,0 +1,1 @@
+This repository is connected to the preprint entitled "Distance-to-the-ocean drives diatom assemblages in coastal lakes of Burin Peninsula (Newfoundland, Canada)" by Kowalczyk et al. The repository contains all the necesary data and codes to reproduce the analysis conducted for the study.
